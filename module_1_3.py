@@ -1,8 +1,8 @@
-name = 'Name: Dima'
-age = 'Age: 24'
-new_age = 'New age: 25'
-is_student = "Is student", 5 < 10
-print(name)
-print(age)
-print(new_age)
-print(is_student)
+name = 'Dima'
+age = 23
+new_age = age + 1
+is_student = 5 < 10
+print('Name: ', name)
+print('Age: ', age)
+print('New age: ', new_age)
+print('Is student: ', is_student)
